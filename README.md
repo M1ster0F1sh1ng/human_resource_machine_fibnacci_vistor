@@ -8,3 +8,8 @@ this repositories surpport 1 way to solve the O() optimaized now（i think its t
 now, you can get a normal_thinking solution, which might be closed to the best solution provided by the official source
 现在，你可以得到一个正常思维的解决方案，这可能接近官方提供的最佳解决方案
 
+optimized successfully, now the normal_way provide the performance of 18-commands and 156-steps
+优化成功，现在正常方法可以提供18行命令以及156步的性能
+
+i will be glad to get a discusion with you.(2-15)
+期待与读者进行讨论.(2-15)
